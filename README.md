@@ -1,6 +1,6 @@
 # OCR in Python with OpenCV, Tesseract and Pytesseract
 
-Companion tutorial blog post can be found [here](https://nanonets.com/blog/ocr-with-tesseract/)
+
 
 ### Preprocessing of images using OpenCV
 
